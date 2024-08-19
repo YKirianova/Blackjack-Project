@@ -30,7 +30,7 @@ The game will continue until you or the computer wins or busts (goes over 21).
 ## Installation
 # Clone the repository to your local machine.
 
-    git clone https://github.com/yourusername/blackjack-game.git
+    git clone [https://github.com/yourusername/blackjack-game.git](https://github.com/YKirianova/Simple-Blackjack-Project)
 
 # (Optional) Create a virtual environment.
 
